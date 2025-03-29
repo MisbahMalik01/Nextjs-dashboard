@@ -1,2 +1,2 @@
 # Nextjs-dashboard
-This is my first Next js project
+This is my first Nextjs project
